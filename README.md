@@ -13,6 +13,8 @@ My papers list me as Jean Viaunel Victor.
 - **From 2D Drawings to BIM Models: An LLM-Assisted Approach** (ISARC 2026)
   An LLM calls four tools through MCP to turn a layered DXF floor plan into a multi-storey IFC model.
   [How it works](https://jeanviaunel.github.io/research/2d-to-bim/) | [DOI](https://doi.org/10.22260/ISARC2026/0307) | [PDF](https://www.iaarc.org/publications/fulltext/ISARC2026_1432.pdf)
+- **From Scan to Field: AR Visualization of TLS-Based As-Laid Utility Geometry** (i3CE 2026, co-author)
+  Terrestrial laser scans of as-laid underground utilities, brought into the field with augmented reality. Proceedings forthcoming.
 - **A Review on Scan-to-BIM for Building Energy Retrofit** (ICCCBE 2026)
   What a team retrofitting an older building for energy performance needs from a scan-to-BIM model. Presented on 25 March 2026.
 
