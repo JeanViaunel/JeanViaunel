@@ -25,7 +25,7 @@ My papers list me as Jean Viaunel Victor.
 | [Marine debris detection](https://jeanviaunel.github.io/work/marine-debris/) | Detecting 34 kinds of ocean waste in photos. 15th of 69 teams, mAP@0.5 0.7917 |
 | [MaiSchool](https://maischool.legendcastle.org) | A live online tutoring platform for families, built with Next.js, Convex, Clerk and Zod |
 | PhotoForge | Photogrammetry that runs entirely on your own machine, with SuperPoint, LightGlue, Depth Anything V2 and SAM2 (in progress) |
-| [GUANIN](https://guaninbuy.com) | A marketplace connecting suppliers in Asia with buyers in the Caribbean and Latin America |
+| [Roomwise](https://video.viocitostudio.me) | A web video-meeting platform my teams use for all our meetings, built with Next.js, Clerk and the Stream Video API |
 
 All projects are on the [Work page](https://jeanviaunel.github.io/work/).
 
